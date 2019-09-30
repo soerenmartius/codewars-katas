@@ -4,6 +4,9 @@
   Solutions with tests, tips and tutorials for <a href="https://www.codewars.com">Codewars</a> katas
 </h6>
 
+I mainly use this repository to keep track of my own codewars progress.
+I'll potentially add new content very infrequently.
+
 ### Vocabulary
 
 - Kata: is an algorithm you have to solve in any programming language you desire
@@ -17,7 +20,7 @@ I highly recommend the [Tech Interview Handbook](https://github.com/yangshun/tec
 
 ### Repository Structure
 
-There's a folder for each kata nested in its own kyu
+There's a folder for each language. Katas are nested in their own kyu.
 
 ```ascii
 ├── rust/
@@ -35,20 +38,3 @@ There's a folder for each kata nested in its own kyu
 │   └── ...
 ```
 
-### Global Index
-
-This index will help you find all katas ordered alphabetically with a link to the kata folder.
-
-- ✅ [8 Kyu - Index](https://github.com/soerenmartius/codewars-katas/tree/master/lib/index/8-kyu.md)
-
-* 🚧 [7 Kyu - Index](https://github.com/soerenmartius/codewars-katas/tree/master/lib/index/7-kyu.md)
-
-- ⏸️ [6 Kyu - Index](https://github.com/soerenmartius/codewars-katas/tree/master/lib/index/6-kyu.md)
-
-* ⏸️ [5 Kyu - Index](https://github.com/soerenmartius/codewars-katas/tree/master/lib/index/5-kyu.md)
-
-Notes:
-
-- ✅ All completed
-- 🚧 Work in progress
-- ⏸️ Paused until last WIP is completed
