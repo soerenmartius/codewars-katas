@@ -1,0 +1,1 @@
+/Users/soerenmartius/projects/codewars-katas/rust/8-kyu/century-from-year/target/debug/century_from_year-1f7535cb6faa6358: /Users/soerenmartius/projects/codewars-katas/rust/8-kyu/century-from-year/src/lib.rs

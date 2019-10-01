@@ -10,10 +10,10 @@
 /// ## Example
 ///
 /// With the numbers are 1, 2 and 3 , here are some ways of placing signs and brackets:
-/// ```
+///
 /// monkeyCount(10) // --> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 /// monkeyCount(1) // --> [1]
-/// ```
+///
 /// So the maximum value that you can obtain is 9.
 ///
 fn monkey_count(n: i32) -> Vec<i32> {
